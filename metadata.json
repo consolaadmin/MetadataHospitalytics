@@ -1,4 +1,4 @@
 {
-  "namespace": "MetadataHospitalytics",
-  "topLimit": 1
+  "sourceCols": ["hotel"],
+  "sinkCols": ["hotelType"]
 }
