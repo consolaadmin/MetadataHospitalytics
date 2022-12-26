@@ -1,1 +1,4 @@
-{"namespace": "MetadataHospitalytics"}
+{
+  "namespace": "MetadataHospitalytics",
+  "topLimit": 10
+}
